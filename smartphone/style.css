@@ -1,0 +1,15 @@
+.container-1 {
+   border: 3px black;
+   border-radius: 15px;
+
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   align-items: flex-start;
+} 
+.app {
+   width: 100px;
+   height: 100px;
+   background: blueviolet;
+   margin: 20px;
+}
