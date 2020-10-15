@@ -1,3 +1,18 @@
 h1 {
-    color: blue;
+    color: rgba(255, 0, 0, 0.883);
+}
+#happy-dog {
+    transform: scale(.25);
+    position: relative;
+    right: 7rem;
+    bottom: 15rem;
+}
+#outside {
+    position: relative;
+    bottom: 29rem;
+
+    width: 245px;
+    height: .5rem;
+    border: 5px solid #000;
+    padding: 5px;
 }
