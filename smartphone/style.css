@@ -5,7 +5,7 @@
 }
 .container {
    border-radius: 15px;
-   background: black;
+   background: rgb(15, 13, 175);
    width: 500px;
 
    display: flex;
